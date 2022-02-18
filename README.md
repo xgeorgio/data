@@ -1,7 +1,7 @@
 # data
-Datasets and model training material
+Datasets and model training material:
 <ul>
-  <li>...</li>
+  <li><a href="https://zenodo.org/record/1218209" target="_blank">**CM-RWL1-O15S16**</a>: Daily refugee arrivals and weather data, Italy/Central Med., Oct.2015 - Sept.2016</li>
 </ul>
 
 Licenced under Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)<br/>
